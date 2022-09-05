@@ -5,6 +5,7 @@ package assignments.java_programming;
         Boolean isPhoneOn;
         String colourOfPhone;
         Boolean canCharge;
+        String NameOfperson;
     }
 
 
