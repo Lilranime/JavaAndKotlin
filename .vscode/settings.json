@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "assignments/java_programming",
+        "coding_fundamentals/java_programming",
+        "coding_fundamentals\\java_programming",
+        "oop\\java_programming"
+    ]
+}
